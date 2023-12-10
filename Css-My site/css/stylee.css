@@ -1,0 +1,97 @@
+body{
+   color: #40514E;
+margin: 0;
+
+text-align: center;
+    
+}
+.top{
+    background-color:#CDF5FD;
+    position: relative;
+    padding-top: 100px;
+    
+}
+.ucloud{
+    
+   position: absolute;
+   top: 40px;
+    right: 400px;
+
+}
+.bcloud{
+    margin-top: 10px;
+    position: absolute;
+    left: 300px;
+}
+h1{
+    color: #11999E;
+    font-family:cursive;
+    font-size: 50px;
+}
+h2{
+    color: #11999E;
+    font-family: cursive;
+    padding-top: 10px;
+}
+h3{
+    color:#66BFBF;
+    font-family: cursive;
+}
+.btn:hover{
+    color: #40514E;
+}
+.btn{
+    border-radius: 10px;
+    padding: 10px;
+    color: #EAF6F6;
+    background-color: #11999E;
+}
+p{
+    font-family: cursive;
+}
+.cl{
+height: 25%;
+ 
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skl{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.sk{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.s{
+    padding-top: 100px;
+}
+.middle-container{
+    margin: 50px 0;
+}
+a{
+    color: #11999E;
+    font-family: cursive;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.ap{
+    color: #EAF6F6;
+    padding: 20px 0;
+}
+.m{
+    margin: 40px auto 60px auto;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
